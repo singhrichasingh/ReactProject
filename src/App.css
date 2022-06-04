@@ -1,0 +1,25 @@
+
+.list-Style{
+  list-style: none;
+}
+.bgCard1{
+  background: aliceblue;;
+  border:1px solid green;
+  margin-top:1.2%;
+  border-radius: 5px;
+  text-align: center;
+  
+}
+.paddingStyle{
+  padding-left: 0;
+}
+.bgCard{
+  
+}
+.headingTitle{
+  text-align: center;
+}
+.imgSize{
+  width: 25px;
+  height:30px;
+}
